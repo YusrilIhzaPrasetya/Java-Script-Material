@@ -1,0 +1,16 @@
+
+/*Pada bagian prompt pertama ini kita akan diberikan isian
+  anda mengisi isian tersebut dengan nama anda */
+prompt("Masukan Nama Anda :");
+
+/*Pada bagian prompt Kedua ini kita akan diberikan isian
+  anda mengisi isian tersebut dengan dari negara mana anda berasal */
+prompt("Masukan Asal Negara Anda :");
+
+/*Pada bagian confirm ini anda akan diberikan suatu langkah
+  dimana langkah tersebut menyuruh anda untuk melakukan validasi. */
+confirm("Apakah data yang anda masukan sudah benar?");
+
+/*Setelah anda melakukan semua langkah diatas, anda akan menemukan 
+  akhir dari langkah tersebut, anda akan di berikan suatu pesan dan ucapan terimaksih. */
+alert("Terimakasih sudah mengisi form");
